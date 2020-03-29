@@ -20,8 +20,8 @@ Taught by [Derrick Schultz](https://twitter.com/dvsch?lang=en) and TA [Lia Colem
 
 To-do before this class:
 
-- [ ]  [Fill out the pre-class survey.](https://drive.google.com/open?id=1s3E7pUYet2l0HmdgRuZVdU6RbuPisf8yqLIHx_erTgE)
-- [ ]  Have Zoom ready!
+- [Fill out the pre-class survey.](https://drive.google.com/open?id=1s3E7pUYet2l0HmdgRuZVdU6RbuPisf8yqLIHx_erTgE)
+- Have Zoom ready!
 
 ### Class Materials
 
