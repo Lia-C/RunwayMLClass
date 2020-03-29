@@ -25,9 +25,9 @@ To-do before this class:
 
 ### Class Materials
 
-- Slides (will be linked)
-- Class Video (will be linked)
-- Notes (will be linked)
+- Slides (will be linked after class)
+- Class Video (will be linked after class)
+- Notes (will be linked after class)
 
 # Week 2, April 14
 
