@@ -34,8 +34,8 @@ To-do before this class:
 
 # Week 2, April 14
 
-# Week 3, Apr 21
+# Week 3, April 21
 
-# Week 4, Apr 28
+# Week 4, April 28
 
 # Week 5, May 5
