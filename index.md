@@ -10,11 +10,11 @@ Taught by [Derrick Schultz](https://twitter.com/dvsch?lang=en) and TA [Lia Colem
 
 ## Course Syllabus
 
-- **Week 1:** Intro to ML, ML inspiration, Runway Setup
-- **Week 2:** Image generation models
-- **Week 3**: Image generation models (chaining? advanced?)
+- **Week 1:** Intro to ML, ML inspiration, Runway Setup.
+- **Week 2:** Image generation models in Runway, Project Inspiration
+- **Week 3**: Image generation models, Chaining Models, Advanced Usage
 - **Week 4**: Training StyleGAN
-- **Week 5:** Using p5js/photoshop plugin56/etc.
+- **Week 5:** Next Steps: Using plugins (p5, photoshop), Google Colab; Open Q&A
 
 # Week 1, April 7
 
