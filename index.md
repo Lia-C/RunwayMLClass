@@ -28,7 +28,7 @@ To-do before this class:
 
 ### Class Materials
 
-- Slides (will be linked after class)
+- [Week 1 Slides](https://drive.google.com/open?id=1VasSxZ6SwqGUGTNRgcIPvBBJk9X27ORmR81UA55YZyY)
 - Class Video (will be linked after class)
 - Notes (will be linked after class)
 
