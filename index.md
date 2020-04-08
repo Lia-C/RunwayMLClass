@@ -34,7 +34,8 @@ To-do before this class:
 - [Images made during class](https://drive.google.com/open?id=1VCJQB9-fZ5ZveHli20DvSqjqafeb5Nih)
 
 #### Links and Resources
-- [Runway Slack](https://runwayml.com/joinslack)
+- Join the [Runway Slack](https://runwayml.com/joinslack)
+- For a little more about Machine Learning and to see more examples of ML art I recommend my [Week 1 video](https://www.youtube.com/watch?v=gUoCHglUKAo&list=PLWuCzxqIpJs_87U88Bwb-XpVwwj_Bpe_R&index=2&t=1s) from a previous course (note that a lot of the inspiration I show here isn’t doable in Runway, but we could think of ways to do similar things!)
 
 # Week 2, April 14
 
