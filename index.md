@@ -18,7 +18,7 @@ Taught by [Derrick Schultz](https://twitter.com/dvsch?lang=en) and TA [Lia Colem
 
 # Week 1, April 7
 
-To-do before this class:
+**_To-do before this class:_**
 1. Bookmark this page!
 2. Fill out the [pre-class survey](https://drive.google.com/open?id=1s3E7pUYet2l0HmdgRuZVdU6RbuPisf8yqLIHx_erTgE).
 3. Join our [Slack](https://ml-images.slack.com/) and poke around! For our class, we will be communicating through the `#runwayml-deepdive` channel.
@@ -33,12 +33,23 @@ To-do before this class:
 - [Week 1 Class Notes](https://www.notion.so/ML-Basics-Setup-Inspiration-13086adefad048e980c11021734ca4f3)
 - [Images made during class](https://drive.google.com/open?id=1VCJQB9-fZ5ZveHli20DvSqjqafeb5Nih)
 
-#### Links and Resources
+### Links and Resources
 - Join the [Runway Slack](https://runwayml.com/joinslack)
 - For a little more about Machine Learning and to see more examples of ML art I recommend my [Week 1 video](https://www.youtube.com/watch?v=gUoCHglUKAo&list=PLWuCzxqIpJs_87U88Bwb-XpVwwj_Bpe_R&index=2&t=1s) from a previous course (note that a lot of the inspiration I show here isn’t doable in Runway, but we could think of ways to do similar things!)
 - [A playlist of a bunch of dataset creation demos](https://www.youtube.com/playlist?list=PLWuCzxqIpJs9v81cWpRC7nm94eTMtohHq) (best for people who have some coding experience or want to learn to use the command line)
 
 # Week 2, April 14
+**_To-do before this class:_**
+
+1. Find a model (or a few!) in Runway and play with it! In Slack, post:
+    - What model did you use?
+    - What the inputs and outputs were.
+    - What questions you have about the model.
+    - Show us what you made!
+
+2. Think about a bigger project you want to work on. 
+    - For inspiration: the [Runway Slack](https://runwayml.com/joinslack), the [Runway Youtube](https://www.youtube.com/playlist?list=PLj598ZXODDO-k_-49mQsQZkrBP_9EMX48).
+    - Consider with inputs you have available to you, and what you want as outputs.
 
 # Week 3, April 21
 
