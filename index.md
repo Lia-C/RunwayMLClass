@@ -30,7 +30,7 @@ To-do before this class:
 
 - [Week 1 Slides](https://drive.google.com/open?id=1VasSxZ6SwqGUGTNRgcIPvBBJk9X27ORmR81UA55YZyY)
 - Class Video (will be linked after class)
-- Notes (will be linked after class)
+- [Notes](https://www.notion.so/ML-Basics-Setup-Inspiration-13086adefad048e980c11021734ca4f3)
 - [Images made during class](https://drive.google.com/open?id=1VCJQB9-fZ5ZveHli20DvSqjqafeb5Nih)
 
 #### Links and Resources
