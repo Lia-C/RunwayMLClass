@@ -33,6 +33,9 @@ To-do before this class:
 - Notes (will be linked after class)
 - [Images made during class](https://drive.google.com/open?id=1VCJQB9-fZ5ZveHli20DvSqjqafeb5Nih)
 
+#### Links and Resources
+- [Runway Slack](https://runwayml.com/joinslack)
+
 # Week 2, April 14
 
 # Week 3, April 21
