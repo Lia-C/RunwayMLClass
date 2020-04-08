@@ -36,6 +36,7 @@ To-do before this class:
 #### Links and Resources
 - Join the [Runway Slack](https://runwayml.com/joinslack)
 - For a little more about Machine Learning and to see more examples of ML art I recommend my [Week 1 video](https://www.youtube.com/watch?v=gUoCHglUKAo&list=PLWuCzxqIpJs_87U88Bwb-XpVwwj_Bpe_R&index=2&t=1s) from a previous course (note that a lot of the inspiration I show here isn’t doable in Runway, but we could think of ways to do similar things!)
+- [A playlist of a bunch of dataset creation demos](https://www.youtube.com/playlist?list=PLWuCzxqIpJs9v81cWpRC7nm94eTMtohHq) (best for people who have some coding experience or want to learn to use the command line)
 
 # Week 2, April 14
 
