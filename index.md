@@ -51,6 +51,11 @@ Taught by [Derrick Schultz](https://twitter.com/dvsch?lang=en) and TA [Lia Colem
 2. Think about a bigger project you want to work on. 
     - For inspiration: the [Runway Slack](https://runwayml.com/joinslack), the [Runway Youtube](https://www.youtube.com/playlist?list=PLj598ZXODDO-k_-49mQsQZkrBP_9EMX48).
     - Consider with inputs you have available to you, and what you want as outputs.
+    
+### Class Materials
+- [Week 2 Slides](https://docs.google.com/presentation/d/1eiV9PKWLJEPogwdTJxQWHpAF0_-nXteC5OCp8j6iTxc/edit?usp=sharing)
+- Week 2 Video (uploaded after class)
+- Week 2 Notes (uploaded after class)
 
 # Week 3, April 21
 
