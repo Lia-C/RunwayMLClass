@@ -62,6 +62,7 @@ Taught by [Derrick Schultz](https://twitter.com/dvsch?lang=en) and TA [Lia Colem
 - [Style Transfer Livestream using Google Colab](https://www.youtube.com/watch?v=YyB5yzbZuc8)
 - [Getting really smooth Style Transfer videos](https://www.youtube.com/watch?v=NM1zWIGIUNg) (note requires you setting up a server)
 - [Runway/Gene Kogan tutorial on GPT-2](https://www.youtube.com/watch?v=-v5StaeOisM)
+- Anna Ridler, Mosaic Virus: [Video](https://vimeo.com/338726032) | [Project](http://annaridler.com/mosaic-virus)
 
 # Week 3, April 21
 
