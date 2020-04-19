@@ -56,7 +56,7 @@ Taught by [Derrick Schultz](https://twitter.com/dvsch?lang=en) and TA [Lia Colem
 ### Class Materials
 - [Week 2 Slides](https://docs.google.com/presentation/d/1eiV9PKWLJEPogwdTJxQWHpAF0_-nXteC5OCp8j6iTxc/edit?usp=sharing)
 - [Week 2 Video](https://drive.google.com/open?id=1L4YAubdZLIOrCg4KPFuYiqhDsNf_oLvw)
-- Week 2 Notes (uploaded after class)
+- [Week 2 Notes](https://www.notion.so/Model-Exploration-b89f5403027f43119690f1a4b41025d8)
 
 ### Homework
 - Start thinking about datasets. 
