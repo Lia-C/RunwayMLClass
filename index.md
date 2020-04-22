@@ -76,7 +76,7 @@ Taught by [Derrick Schultz](https://twitter.com/dvsch?lang=en) and TA [Lia Colem
 # Week 3, April 21
 ### Class Materials
 - [Week 3 Slides](https://docs.google.com/presentation/d/1izEhV86rQhnAsCrM0wbeU7oxRFZoAQl1zR0_2aZeTK4/edit?usp=sharing)
-- Week 3 Video
+- [Week 3 Video](https://drive.google.com/open?id=1xYYmRJwkkjMyEa-bscul6I6nvQ00PFnV)
 - [Week 3 Notes](https://www.notion.so/Chaining-Datasets-1b3f741601f94ca09af70541bb108cd6)
 
 ### Homework
@@ -87,6 +87,8 @@ Taught by [Derrick Schultz](https://twitter.com/dvsch?lang=en) and TA [Lia Colem
 - Let us know if you want a premade one from us. Runway also has some premade ones.
 
 ### Links and Resources
+
+- [Topaz Labs AI tools](https://topazlabs.com/ai-bundle/)
 
 
 # Week 4, April 28
