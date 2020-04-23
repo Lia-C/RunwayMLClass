@@ -88,6 +88,8 @@ Taught by [Derrick Schultz](https://twitter.com/dvsch?lang=en) and TA [Lia Colem
 
 ### Links and Resources
 
+- [Artificial Images intermediate course from January](https://www.youtube.com/playlist?list=PLWuCzxqIpJs_MAyxwK5Qe__rkVVmGqC5G)
+- [Pix2PixHD demo](https://www.youtube.com/watch?v=TVCZLb1qe_0)
 - [Topaz Labs AI tools](https://topazlabs.com/ai-bundle/)
 
 
