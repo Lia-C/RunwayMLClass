@@ -94,3 +94,6 @@ Taught by [Derrick Schultz](https://twitter.com/dvsch?lang=en) and TA [Lia Colem
 # Week 4, April 28
 
 # Week 5, May 5
+
+# Student Work and Documentation
+- [Discovering Machine Learning Art Production](http://nyewarburton.com/2020/04/20/nytrogen-discovering-machine-learning-art-production/) by Nye Warburton
