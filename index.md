@@ -90,6 +90,7 @@ Taught by [Derrick Schultz](https://twitter.com/dvsch?lang=en) and TA [Lia Colem
 
 - [Artificial Images intermediate course from January](https://www.youtube.com/playlist?list=PLWuCzxqIpJs_MAyxwK5Qe__rkVVmGqC5G)
 - [Pix2PixHD demo](https://www.youtube.com/watch?v=TVCZLb1qe_0)
+- [Style Transfer for video using Optical Flow](https://www.youtube.com/watch?v=NM1zWIGIUNg) (this requires a cloud server or a local computer with an NVIDIA GPU)
 - [Topaz Labs AI tools](https://topazlabs.com/ai-bundle/)
 
 
