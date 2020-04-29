@@ -96,6 +96,17 @@ Taught by [Derrick Schultz](https://twitter.com/dvsch?lang=en) and TA [Lia Colem
 
 # Week 4, April 28
 
+### Class Materials
+- [Week 3 Slides](https://docs.google.com/presentation/d/1P0Qo__j8_8K_7-K5OOZYqGSD4q909iByiX8fruCrUAQ/edit?usp=sharing)
+- Week 3 Video
+- [Week 3 Notes](https://www.notion.so/Training-StyleGAN-fe6a49f9b9634cc29c879db6a9d71677)
+
+### Homework
+**Finish your dataset and Train a Model!**
+
+### Links and Resources
+
+
 # Week 5, May 5
 
 # Student Work and Documentation
