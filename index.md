@@ -108,13 +108,13 @@ Taught by [Derrick Schultz](https://twitter.com/dvsch?lang=en) and TA [Lia Colem
 # Week 5, May 5
 
 ### Class Materials
-- [Week 4 Slides](https://docs.google.com/presentation/d/1Z0tOxaJoBZC860qoIz6hQMOT649hmyVjUgQiVMz9lq0/edit?usp=sharing)
-- Week 4 Video
-- [Week 4 Notes](https://www.notion.so/Interpolation-Calling-Runway-from-P5-js-Next-Steps-3e67153e10e648a18137bc3e859b874c)
+- [Week 5 Slides](https://docs.google.com/presentation/d/1Z0tOxaJoBZC860qoIz6hQMOT649hmyVjUgQiVMz9lq0/edit?usp=sharing)
+- Week 5 Video
+- [Week 5 Notes](https://www.notion.so/Interpolation-Calling-Runway-from-P5-js-Next-Steps-3e67153e10e648a18137bc3e859b874c)
 
 ### Homework
 1. Please fill out our [class survey](https://forms.gle/GU1LwRzC1bF1yWjU7)!
-2. Prep for the end-of-class showcase on May 19.
+2. Prep for the end-of-class showcase on May 19. [Slot signups here](https://docs.google.com/spreadsheets/d/12fN1YjT0jHg8--rKh1DSgNz0C4yxThECTggh2k46yds/edit?usp=drive_web&ouid=109371793240987315077)!
     - Optional!
     - 5-7 mins per student.
     - Open format. Show and Tell, performance, teach, etc. Play a pre-recorded video. Present live with slides. Live demo + Q&A. Any mix of the above!
