@@ -109,8 +109,14 @@ Taught by [Derrick Schultz](https://twitter.com/dvsch?lang=en) and TA [Lia Colem
 
 ### Class Materials
 - [Week 5 Slides](https://docs.google.com/presentation/d/1Z0tOxaJoBZC860qoIz6hQMOT649hmyVjUgQiVMz9lq0/edit?usp=sharing)
-- Week 5 Video
+- [Week 5 Video](https://drive.google.com/open?id=1hII0PXfyLszAEjoxvcnfADBan8O4RICO)
 - [Week 5 Notes](https://www.notion.so/Interpolation-Calling-Runway-from-P5-js-Next-Steps-3e67153e10e648a18137bc3e859b874c)
+
+### p5.js links
+- (Linear Interpolation)[https://editor.p5js.org/dvs/sketches/ab2iTZQtb]
+- (Noise Loop Interpolation)[https://editor.p5js.org/dvs/sketches/Gb0xavYAR]
+- (Interpolation using a CSV)[https://editor.p5js.org/dvs/sketches/ab2iTZQtb]
+- (Generate images using text)[https://editor.p5js.org/dvs/sketches/fFEJqxxgJ]
 
 ### Homework
 1. Please fill out our [class survey](https://forms.gle/GU1LwRzC1bF1yWjU7)!
