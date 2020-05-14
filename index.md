@@ -98,7 +98,7 @@ Taught by [Derrick Schultz](https://twitter.com/dvsch?lang=en) and TA [Lia Colem
 
 ### Class Materials
 - [Week 4 Slides](https://docs.google.com/presentation/d/1P0Qo__j8_8K_7-K5OOZYqGSD4q909iByiX8fruCrUAQ/edit?usp=sharing)
-- Week 4 Video
+- [Week 4 Video](https://drive.google.com/open?id=1cKwmdmq1pYA2jdfX5yQhINcPNvuAulmE)
 - [Week 4 Notes](https://www.notion.so/Training-StyleGAN-fe6a49f9b9634cc29c879db6a9d71677)
 
 ### Homework
